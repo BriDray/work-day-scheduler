@@ -22,7 +22,7 @@ SO THAT I can manage my time effectively
 The work-day-scheduler is meant to help you organize your work day in one place! organized by the hour, each hour row will change color accourding to the current time to help you keep yourself on track!
 
 # Screenshot
-![Home Project Screenshot](/public/images/signinshot.png?raw=true "Home1")
+![Home Project Screenshot](/Assets/work-day-scheduler.png?raw=true "Project")
 
 # Github Link
 [View The work-day-scheduler Here!](https://myhome.herokuapp.com/SignInPage)
