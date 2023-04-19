@@ -25,13 +25,13 @@ The work-day-scheduler is meant to help you organize your work day in one place!
 ![Home Project Screenshot](/Assets/work-day-scheduler.png?raw=true "Project")
 
 # Github Link
-[View The work-day-scheduler Here!](https://myhome.herokuapp.com/SignInPage)
+[View The work-day-scheduler Here!](https://bridray.github.io/work-day-scheduler/)
 
 # Technologies Used
 * Bootstrap: CSS Library
 * DayJS
 
 # Questions
-Hi, Thanks for checking out our Project: noted! If you have any questions about our project, please E-mail us [HERE!](mailto:homedatabaseapplication@gmail.com) Coming soon!
+Hi, Thanks for checking out my Project: work-day-scheduler! If you have any questions about my project, please E-mail me [HERE!](mailto:stanggurl02@gmail.com)
 
 
